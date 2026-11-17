@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{e8360106-9512-4fbe-bc82-8170ec782a9f}">
+		<property name="assetPath">
+			<value>Voicy_skibidi slowed.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.031020408163265</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{d59976c1-2dc8-4ec9-bc09-df545c102224}</destination>
+		</relationship>
+	</object>
+</objects>
